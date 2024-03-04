@@ -1,0 +1,1 @@
+add_executable(globel_memory globel_memory.cu)

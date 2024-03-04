@@ -1,0 +1,2 @@
+add_executable(atomicAdd atomicAdd.cu)
+target_compile_definitions(atomicAdd PRIVATE USE_DP)
